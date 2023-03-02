@@ -1,3 +1,2 @@
-# Flask-TodoApp
-## This is a todo application that lets the users add/update todos and delete them later on
-### The tech stack used for this todo application is MERN
+# Basic MERN app
+## This is a basic mern app to understand how frontend and backend works together in mern stack
